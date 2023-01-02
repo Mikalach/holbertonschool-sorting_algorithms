@@ -2,7 +2,7 @@
 /**
  * bubble_sort - to sort xithe the 'bubble sort' an array of integers
  * @array: the pointer to the array
- * size: the size of the array
+ * @size: the size of the array
  */
 void bubble_sort(int *array, size_t size)
 {
